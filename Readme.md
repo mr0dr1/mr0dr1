@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello! I'm **mr.dr1**, and I'm excited to share my projects and collaborate with others in the community. Here are a few things about me:
+Hello! I'm **Mr.DR1**, and I'm excited to share my projects and collaborate with others in the community. Here are a few things about me:
 
 - 🔭 I’m currently working on some innovative machine learning projects.
 - 🌱 I’m learning about cloud computing and AI.
